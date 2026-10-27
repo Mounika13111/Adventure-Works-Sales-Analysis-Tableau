@@ -41,6 +41,10 @@ This project uses Tableau to analyze Adventure Works sales data and explore sale
 - Data visualization
 - Calculated fields and interactive filters
 
+## Dashboard Preview
+
+![Tableau Dashboard](Screenshot%202026-10-27%20103631.png)
+
 ## Project Files
 
 https://drive.google.com/file/d/12XOPBw6Gb0jQYN-_O2707O4xu1V05KYZ/view?usp=sharing
