@@ -43,7 +43,7 @@ This project uses Tableau to analyze Adventure Works sales data and explore sale
 
 ## Dashboard Preview
 
-![Tableau Dashboard](Screenshot%202026-10-27%20103631.png)
+![Tableau Sales Dashboard](Tableau%20Sales%20Dashboard.png)
 
 ## Project Files
 
